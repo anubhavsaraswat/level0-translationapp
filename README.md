@@ -1,2 +1,2 @@
 # Fun Dog Translator App
-creating translation app using js 
+created translation app using js 
